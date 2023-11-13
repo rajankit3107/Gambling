@@ -1,1 +1,2 @@
 # Gambling
+The Slot Machine Python project is an interactive and engaging application that simulates the experience of playing a classic slot machine. This project is designed to provide a hands-on experience in Python programming, incorporating fundamental concepts such as classes, random number generation, and user interaction. The objective is to create a text-based slot machine game where players can spin the reels, observe the results, and interact with the game to accumulate credits.
